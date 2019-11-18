@@ -1,4 +1,4 @@
-# Machine-Learning-Driven-Quantamental-Investing
+# 机器学习驱动的基本面量化投资研究
 
 本站点包含了李斌等（2019）的附件材料，包含完整的数据集和程序，以及论文附录等。
 
