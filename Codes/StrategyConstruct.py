@@ -442,11 +442,3 @@ def comboutput(length, clf, name, rf,timeseries2, index):
     print('t-statistic', '(' + str(round(t5[0], 4)) + ')', '(' + str(round(t5[1], 4)) + ')',
           '(' + str(round(t5[2], 4)) + ')')
     print('sharpe', sharpratio[0], sharpratio[1], sharpratio[2])
-
-
-
-
-
-
-
-
